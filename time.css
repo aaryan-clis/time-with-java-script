@@ -1,0 +1,13 @@
+h2{
+    color: cornflowerblue;
+    text-align: center;
+}
+body{
+    background-color: blueviolet ;
+}
+button{
+    width: 200px;
+    height: 200px;
+    margin-left: 660px;
+     color: #000;
+}
